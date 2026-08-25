@@ -1,4 +1,4 @@
-# Sales Data Cleaning, EDA & Automated Reporting
+# Sales Data Cleaning, EDA & Automated Reporting q
 
 An end-to-end Python data analytics project that transforms raw transactional retail data into structured business insights, visualizations, and an automatically generated sales report.
 
